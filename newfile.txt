@@ -2,3 +2,5 @@ hello world
 this is my file 1
 this is git commands
 hey there
+this is for stage area
+this is unstage 
